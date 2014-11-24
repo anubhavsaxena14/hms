@@ -13,8 +13,9 @@ This project is made using Web Technologies as follows:
   6. JQuery
 
 Software used:
-  1. XAMPP was installed on the Window 8 machine and APACHE Server and MySQL were initialized. (localhost was used to run the project)
+  1. XAMPP was installed on the Window 8 machine and APACHE Server and MySQL were initialized. And, files were built inside xampp/htdocs/[PROJECT_DIRECTORY].
   2. Notepad++ was used as the text editor.
+  3. Mozilla Firefox 33.1 was used to run the project (localhost/[PROJECT_DIRECTORY] was used as the url).
 
 HMS directory structure includes:
   1. menu:      Files made in PHP for navigation bar consisting of services, about, etc.
