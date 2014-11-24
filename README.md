@@ -7,8 +7,8 @@ I, Anubhav Saxena, am an Undergraduate Student in my Third Year at the moment an
 This project is made using Web Technologies as follows:
   1. HTML5
   2. CSS3
-  3. PHP
-  4. MySQL
+  3. PHP 5.6.3
+  4. MySQL 5.6.20
   5. Javascript
   6. JQuery
 
